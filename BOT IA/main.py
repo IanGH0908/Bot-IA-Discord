@@ -32,4 +32,5 @@ async def verificar(ctx):
             await ctx.send(f'***Clase:** {class_name} \n **Predicción:** {confidence_score:.0f}')
     else:
         await ctx.send('No envio ninguna imagen :,D')
-bot.run("MTM2OTg1MDQ5MTU5NjQzOTY0NQ.GT8I6z.qKZ90qxEX-p4oKQiXHCyVLAg4RrFoXfQ0-_n1o")
+
+bot.run("TUTOKEN")
